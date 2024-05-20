@@ -1,5 +1,5 @@
 {
-  "name": "k-ui",
+  "name": "fls-ui",
   "version": "1.0.0",
   "main": "lib/index.js",
   "module": "es/index.mjs",
@@ -7,7 +7,7 @@
     "es",
     "lib"
   ],
-  "keywords": ["k-ui"],
+  "keywords": ["fls-ui"],
   "sideEffects": [
     "**/*.css"
   ],
