@@ -1,5 +1,5 @@
 {
-  "name": "lk-ui",
+  "name": "k-ui",
   "version": "1.0.0",
   "main": "lib/index.js",
   "module": "es/index.mjs",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qddidi/easyest"
+    "url": "https://github.com/fenglusheng/k-ui"
   }
 }
 
