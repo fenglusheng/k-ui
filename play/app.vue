@@ -1,9 +1,7 @@
-<script setup lang="ts">
-import { Button } from "@k-ui/components";
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <Button />
+  <k-button>测试按钮</k-button>
 </template>
 
 <style scoped lang="less"></style>

@@ -1,4 +1,5 @@
 <script setup lang="ts">
+defineOptions({ name: "k-button" });
 import { computed } from "vue";
 
 type ButtonProps = {
@@ -43,5 +44,5 @@ function onClick() {
 </template>
 
 <style scoped lang="less">
-@import url("./style/index.less");
+@import "./style/index.less";
 </style>
